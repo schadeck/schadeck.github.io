@@ -1,0 +1,40 @@
+{
+  "candidateResults": [
+    {
+      "candidate": {
+        "firstName": "Terry",
+        "middleInitial": "",
+        "lastName": "McAuliffe",
+        "npid": 60075
+      },
+      "partyCode": "D",
+      "partyName": "Democrat",
+      "isWinner": false,
+      "isIncumbent": false
+    },
+    {
+      "candidate": {
+        "firstName": "Glenn",
+        "middleInitial": "",
+        "lastName": "Youngkin",
+        "npid": 69739
+      },
+      "partyCode": "R",
+      "partyName": "Republican",
+      "isWinner": false,
+      "isIncumbent": false
+    },
+    {
+      "candidate": {
+        "firstName": "Princess",
+        "middleInitial": "",
+        "lastName": "Blanding",
+        "npid": 69738
+      },
+      "partyCode": "LB",
+      "partyName": "Libertarian",
+      "isWinner": true,
+      "isIncumbent": false
+    }
+  ]
+}

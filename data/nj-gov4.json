@@ -1,0 +1,64 @@
+{
+  "candidateResults": [
+    {
+      "candidate": {
+        "firstName": "Philip",
+        "middleInitial": "",
+        "lastName": "Murphy",
+        "npid": 65863
+      },
+      "partyCode": "D",
+      "partyName": "Democrat",
+      "isWinner": false,
+      "isIncumbent": true
+    },
+    {
+      "candidate": {
+        "firstName": "Jack",
+        "middleInitial": "",
+        "lastName": "Ciattarelli",
+        "npid": 65857
+      },
+      "partyCode": "R",
+      "partyName": "Republican",
+      "isWinner": false,
+      "isIncumbent": false
+    },
+    {
+      "candidate": {
+        "firstName": "Joanne",
+        "middleInitial": "",
+        "lastName": "Kuniansky",
+        "npid": 69787
+      },
+      "partyCode": "I",
+      "partyName": "Independent",
+      "isWinner": false,
+      "isIncumbent": false
+    },
+    {
+      "candidate": {
+        "firstName": "Gregg",
+        "middleInitial": "",
+        "lastName": "Mele",
+        "npid": 67763
+      },
+      "partyCode": "I",
+      "partyName": "Independent",
+      "isWinner": false,
+      "isIncumbent": false
+    },
+    {
+      "candidate": {
+        "firstName": "Madelyn",
+        "middleInitial": "",
+        "lastName": "Hoffman",
+        "npid": 67751
+      },
+      "partyCode": "I",
+      "partyName": "Independent",
+      "isWinner": true,
+      "isIncumbent": false
+    }
+  ]
+}
